@@ -1,0 +1,7 @@
+import json
+
+def main():
+    with open("norad01request.py","w") as names:
+        name.write('/n')
+main()
+
